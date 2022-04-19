@@ -1,0 +1,32 @@
+{
+    "name": "Jean",
+    "age": 60,
+    "phone": {
+        "personal": "111-123-123",
+        "work": "222-456-456",
+        "ext": "2342"
+    },
+    "privileges": "admin",
+    "favorites": {
+        "artist": "Picasso",
+        "food": "pasta"
+    },
+    "finished": [
+        17,
+        3
+    ],
+    "badges": [
+        "grey",
+        "black"
+    ],
+    "points": [
+        {
+            "points": 85,
+            "bonus": 20
+        },
+        {
+            "points": 85,
+            "bonus": 10
+        }
+    ]
+}
